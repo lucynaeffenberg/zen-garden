@@ -19,10 +19,9 @@ h1 {
 	font-style: italic
 
 	}
-}
 
 h3 {
-	color: silver;
+	color: violet;
 	font-style: italic;
 }
 
@@ -51,4 +50,17 @@ a {
 body {
 	background-color: red;
 }
+
+div.benefits {
+	background-color: silver;
+}
+
+div.requirements {
+	background-color: violet;
+}
+
+footer {
+	background-color: black;
+}
+
 
