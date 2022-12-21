@@ -1,0 +1,54 @@
+div.participation {
+	background-color: navy;
+	font-size: 20px;
+	font-style: oblique;
+}
+
+section.intro div.preamble {
+	background-color: rosybrown;
+	margin-left: 30px;
+}
+
+h2	{
+	color: black;
+}
+
+h1 {
+	color: navy;
+	text-transform: unset;
+	font-style: italic
+
+	}
+}
+
+h3 {
+	color: silver;
+	font-style: italic;
+}
+
+aside.sidebar {
+	background-color: navy;
+	color: yellow;
+}
+
+aside.sidebar:hover {
+	background-color: black;
+}
+
+aside.sidebar:hover h3 {
+	color: red;
+}
+
+a:hover {
+	color: red;
+	border-color: yellow;
+}
+
+a {
+	color: white;
+}
+
+body {
+	background-color: red;
+}
+

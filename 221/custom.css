@@ -1,0 +1,35 @@
+.intro header h2 {
+	background-color: orange;
+	color: maroon;
+	text-decoration: underline;
+}
+
+h3 {
+	color: red;
+}
+
+.main .explanation h3 {
+	color: yellow;
+	border: 2px solid white;
+	padding-left: 15px;
+}
+
+.main .explanation p {
+	background-color: silver;
+	color: bisque;
+	font-style: italic;
+
+}
+
+.main .explanation p:first-letter {
+	font-size: 30px;
+}
+
+
+.sidebar .design-selection nav ul li a:hover {
+	color: red;
+}
+
+a:hover {
+	color: greenyellow;
+}
